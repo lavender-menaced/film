@@ -421,6 +421,15 @@ h2 {
 
 /* Navbar Mobile */
 
+/* .nav-section {
+    max-width: unset;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--dark-gray);
+} */
+
 .navbar-mobile {
     display: flex;
     justify-content: space-between;
